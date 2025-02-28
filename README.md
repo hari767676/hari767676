@@ -7,7 +7,7 @@
 ---
 
 🔥 About Me:  
-🎓 B.Tech Student at PES University, Bangalore  
+🎓 Graduated from Bangalore Institute of Technology(2020-2024) in Electronics and communication engineering.
 💻 Passionate about Embedded C, Microcontrollers & AI in Automotive  
 🛠 Building innovative projects in IoT, RTOS & Low-Level Firmware  
 📡 Exploring Communication Protocols & Hardware-Software Integration  
@@ -15,8 +15,8 @@
 ---
 
 💡 Tech Stack & Skills:  
-🔹 Programming: C, Python, Embedded C  
-🔹 Microcontrollers: PIC18F4580, ARM Cortex  
+🔹 Programming: C, C++, Embedded C  
+🔹 Microcontrollers: PIC18F4580 
 🔹 Tools & Platforms: Keil, MPLAB, Proteus, RTOS  
 🔹 Concepts: DMA, Memory Segments, Function Pointers, Bitwise Operations  
 
