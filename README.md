@@ -20,10 +20,9 @@
 🔹 Tools & Platforms: Keil, MPLAB, Proteus, RTOS  
 🔹 Concepts: DMA, Memory Segments, Function Pointers, Bitwise Operations  
 
-
 📫 Let's Connect!  
-📧 Email:harishbillur278566@gmail.com
-💼 LinkedIn:[Harish Billur] (https://www.linkedin.com/in/harish-billur-a2a948240/)
+📧 Email: harishbillur278566@gmail.com  
+💼 LinkedIn: [Harish Billur](https://www.linkedin.com/in/harish-billur-a2a948240/)  
 🌐 GitHub: [hari767676](https://github.com/hari767676)  
 
 🚀 Always open to discussing Embedded Systems & AI!  
